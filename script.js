@@ -6,8 +6,8 @@ const projects = [
         description: "基于 AI 技术的智能简历优化工具，使用 Python + FastAPI + React + SQLite + Ollama 构建。支持本地部署、一键启动，可根据职位描述进行针对性优化。",
         tags: ["Python", "FastAPI", "React", "TypeScript", "Ollama", "SQLite"],
         image: "💼",
-        demoUrl: "https://github.com/yourusername/resume-ai-optimizer",
-        codeUrl: "https://github.com/yourusername/resume-ai-optimizer",
+        demoUrl: "https://github.com/liluo293254/resume-ai-optimizer",
+        codeUrl: "https://github.com/liluo29325/resume-ai-optimizer",
         featured: true
     },
     {
